@@ -1,6 +1,7 @@
 # filesigner
 ## Purpose
 To sign a file prior to export through an Oakdoor Export Diode™ or Oakdoor Gateway™.
+This filesigner Programme follows the 'Release Control' procedure.
 
 This repository contains source code and python scripts for the filesigner program. 
 
